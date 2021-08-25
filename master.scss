@@ -6,6 +6,6 @@ body {
     @include color($redder);
 }
 
-.test {
+.max_testing_scss {
     @include change_font_size($super_large);
 }
